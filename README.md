@@ -1,6 +1,6 @@
 <div align="center">
 
-# HGI²Fusion: Hierarchical Graph Infromation Interaction Network for Infrared- and Visible Image Fusion
+# HGI²Fusion: Hierarchical Graph Infromation Interaction Network for Infrared and Visible Image Fusion
 
 <!-- [![Paper](https://img.shields.io/badge/Paper-PDF-red)](链接待补充)
 [![arXiv](https://img.shields.io/badge/arXiv-2024-b31b1b.svg)](链接待补充)
