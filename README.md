@@ -68,24 +68,24 @@ We conducted extensive real-world experiments under various challenging scenario
   </tr>
   <tr>
     <td><b>Visible</b></td>
-    <td><img src="assets/gifs/Day/image3.gif" width="200"></td>
-    <td><img src="assets/gifs/Night/image9.gif" width="200"></td>
-    <td><img src="assets/gifs/Fog/image12.gif" width="200"></td>
-    <td><img src="assets/gifs/high exposure/image14.gif" width="200"></td>
+    <td><img src="assets/gifs/Day/image3.gif" width="150"></td>
+    <td><img src="assets/gifs/Night/image9.gif" width="150"></td>
+    <td><img src="assets/gifs/Fog/image12.gif" width="150"></td>
+    <td><img src="assets/gifs/high exposure/image14.gif" width="150"></td>
   </tr>
   <tr>
     <td><b>Infrared</b></td>
-    <td><img src="assets/gifs/Day/image4.gif" width="200"></td>
-    <td><img src="assets/gifs/Night/image10.gif" width="200"></td>
-    <td><img src="assets/gifs/Fog/image11.gif" width="200"></td>
-    <td><img src="assets/gifs/high exposure/image13.gif" width="200"></td>
+    <td><img src="assets/gifs/Day/image4.gif" width="150"></td>
+    <td><img src="assets/gifs/Night/image10.gif" width="150"></td>
+    <td><img src="assets/gifs/Fog/image11.gif" width="150"></td>
+    <td><img src="assets/gifs/high exposure/image13.gif" width="150"></td>
   </tr>
   <tr>
     <td><b>Fusion</b></td>
-    <td><img src="assets/gifs/Day/image5.gif" width="200"></td>
-    <td><img src="assets/gifs/Night/image6.gif" width="200"></td>
-    <td><img src="assets/gifs/Fog/image8.gif" width="200"></td>
-    <td><img src="assets/gifs/high exposure/image7.gif" width="200"></td>
+    <td><img src="assets/gifs/Day/image5.gif" width="150"></td>
+    <td><img src="assets/gifs/Night/image6.gif" width="150"></td>
+    <td><img src="assets/gifs/Fog/image8.gif" width="150"></td>
+    <td><img src="assets/gifs/high exposure/image7.gif" width="150"></td>
   </tr>
 </table>
 
